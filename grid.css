@@ -73,3 +73,9 @@
     width: 102%;
     
 }
+@media(max-width:480px){
+    .testimonials-article{
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
